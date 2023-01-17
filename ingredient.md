@@ -1,5 +1,5 @@
 # Ingredients
-sucre
+80 g de sucre
 vanille
 farine
 chocolat
