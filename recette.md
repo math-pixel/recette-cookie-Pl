@@ -1,4 +1,4 @@
-# recette
+# Recette
 ÉTAPE 1
 chocolat noir
 Détailler le chocolat en pépites.
